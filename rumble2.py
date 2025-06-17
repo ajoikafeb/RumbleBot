@@ -273,4 +273,4 @@ async def on_ready():
     await tree.sync()
     print(f"✅ Bot aktif sebagai {bot.user}")
 
-bot.run("MTM4NDAyOTM5NjgxNzY3ODQyNg.GKurP5.w3H40d29mLllsskDHJgHoC7_1F4WElOlZVlmHE")
+bot.run("DISCORD TOKEN")
