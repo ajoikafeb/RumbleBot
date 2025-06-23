@@ -35,3 +35,6 @@ ADMIN_ROLE_IDS = [
     1362624947557503006,  # 🛡️ Moderator
     1384176855292313741   # ⚙️ Tester
 ]
+
+
+Bot Sudah di tes di : https://discord.gg/KzVBHKf9ck
